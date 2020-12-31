@@ -1,0 +1,60 @@
+.header {
+	background-color: #f9c700;
+	height: 70px;
+}
+
+.a {
+	margin-left: 40px;
+}
+
+.span {
+	margin-left: 5px;
+}
+
+.img {
+	height: 40px;
+	vertical-align: middle;
+}
+
+.logo {
+	line-height: 60px;
+	text-align: left;
+	font-size: 18px;
+}
+
+.header-top {
+	height: 30px;
+	line-height: 60px;
+	padding: 0 20px;
+	text-align: right;
+}
+
+.breadcrumb {
+	height: 40px;
+	line-height: 40px;
+	padding: 0 20px;
+	border-top: 1px solid #f9c700;
+	}
+	.after {
+		position: absolute;
+		content: '';
+		left: 73px;
+		top: 39px;
+		border-top: 9px solid #9b81a0;
+		border-left: 12px solid transparent;
+		border-right: 12px solid transparent;
+	}
+	.breadcrumb-title {
+		text-align: center;
+		font-size: 16px;
+	}
+	.weather {
+		text-align: right;
+		font-size: 16px;
+	}
+	.date {
+		margin-right: 6px;
+	}
+	.weather-data{
+		color: red;
+	}
